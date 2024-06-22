@@ -71,7 +71,19 @@ public class Main {
 
     // Method structures are as follows:
     public static void main(String[] args) {
-        System.out.println("Hello World"); // Outputting "Hello World" into the terminal
+        System.out.println("Hello World"); // Code within method which outputs "Hello World" into the terminal
     }
 
 }
+
+// Packages are containers for many different classes
+
+/* Main Points to Remember:
+
+1. Every Java program contains at least one Class.
+2. Pascal case is used with classes.
+3. Camel case is used with methods.
+4. A method exists inside a class.
+5. main() is the starting point of execution of our program.
+
+*/
