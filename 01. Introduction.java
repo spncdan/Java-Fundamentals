@@ -1,3 +1,6 @@
+// Welcome to my self-learning Java repository
+// I will be making notes here of my transition to understand Java after having learned core concepts of C++
+
 // Java is a general-purpose * powerful programming language
 // It is used for developing software that will run on mobile, desktop, and servers.
 // Machine independent
@@ -30,6 +33,14 @@
 
 // Class - Blueprint to create Objects
 // Object - Instances of a Class
+
+// Class structures are as follows:
+
+class class_name {
+    // Code block - Code within brackets
+}
+
+// Method - are groups of instructions to do specific tasks
 
 // Here is how you are able to Print "Hello World" in Java
 
