@@ -54,6 +54,13 @@ public class Main {
 
         System.out.println(myNum + myNum2); // 16 will be displayed as it takes the two variables and adds their values
 
+        // Just like C++ you must define the variable type first
+
+        string myString = "Hello";
+        float myFloat = 134.34;
+        char myChar = 'x';
+        boolean myBool = false;
+
     }
 
 }
