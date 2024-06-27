@@ -18,6 +18,7 @@ public class Menu_Operation {
     public static void main(String[] args) {
 
         // Typing sout + enter will automatically make a "System.out.println()"
+        // Here is an example of a menu as I would create one in my console based C++ games
         System.out.println("*************************************************");
         System.out.println(" ");
         System.out.println("          Welcome to This Java Program! ");
