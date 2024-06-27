@@ -1,6 +1,6 @@
 package Package1; // This class "Menu_Operation", is within the package known as Package1
 
-/* Packages are important in Java :
+/* Benefits of Packages in Java:
 
  - Locally group related classes and interfaces
  - Allow different functionalities to be developed independently and then integrate them later
