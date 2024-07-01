@@ -32,13 +32,14 @@ public class Menu_Operation {
         System.out.println("*************************************************");
         System.out.println(" ");
 
-        Advertisement(); // Calling Advertisement method in main method.
-        // By specifying the package name and method you can call this outside of this package like in Main.java which is not within Package1
+        Advertisement(); // Calling Advertisement method in main method of this particular class.
+     
+        // By specifying the package name and method you can call the Advertisement method outside of this package like in Main.java which is not within Package1
         // You would have to first import the package like import Package1.Menu_Operation; at the very top
         // Then you simply do Menu_Operation.Advertisement();
     }
 
-    // You can only have ONE main method per class so for this method lets name is something different.
+    // You can only have ONE main method per class so for this method lets name it something different.
     // Because this is not the main method we must manually call it for it to run
     public static void Advertisement() {
 
